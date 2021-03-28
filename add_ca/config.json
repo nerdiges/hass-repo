@@ -1,6 +1,6 @@
 {
   "name": "Add CA",
-  "version": "0.11",
+  "version": "0.2",
   "slug": "add_ca",
   "description": "My first real add-on!",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
