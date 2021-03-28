@@ -1,5 +1,5 @@
 {
-"name": "Hass.IO example add-on repository",
-"url": "https://home-assistant.io/",
-"maintainer": "HomeAssistant <info@home-assistant.io>"
+"name": "Home Assistant AddOns (nerdig.es)",
+"url": "https://github.com/nerdiges/hass-repo",
+"maintainer": "Stephan Klein <stephan@nerdig.es>"
 }
