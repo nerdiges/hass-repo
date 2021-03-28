@@ -1,1 +1,1 @@
-# nerdig.es: Home Assistant Add-Ons
+# Home Assistant Add-Ons von nerdig.es
