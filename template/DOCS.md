@@ -1,4 +1,4 @@
-# Home Assistant Add-on: DHCP server
+# Home Assistant Add-on: <name>
 
 ## Installation
 
