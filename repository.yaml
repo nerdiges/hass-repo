@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: nerdig.es - Home Assistant AddOns
+url: 'https://github.com/nerdiges/hass-repo'
+maintainer: Stephan Klein <stephan@nerdig.es>
